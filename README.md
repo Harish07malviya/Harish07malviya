@@ -91,32 +91,23 @@ Developed an **AI-based chatbot** capable of domain-specific Q&A using NLP and s
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
-<p align=\"center\">
-  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=Harish07malviya&theme=tokyonight&hide_border=false\" height=\"160\" />
-  <img src=\"https://github-readme-stats.vercel.app/api?username=Harish07malviya&show_icons=true&theme=tokyonight&rank_icon=github\" height=\"160\" />
-</p>
-
-<p align=\"center\">
-  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Harish07malviya&layout=compact&theme=tokyonight&langs_count=8\" height=\"150\" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish07malviya&theme=radical)
+![Harish’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish07malviya&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish07malviya&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect with Me  
 
-<p align=\"center\">
-  <a href=\"https://www.linkedin.com/in/harish-malviya\"><img src=\"https://img.shields.io/badge/LinkedIn-Harish%20Malviya-blue?style=for-the-badge&logo=linkedin\"></a>
-  <a href=\"https://github.com/Harish07malviya\"><img src=\"https://img.shields.io/badge/GitHub-Harish07malviya-black?style=for-the-badge&logo=github\"></a>
-  <a href=\"mailto:harishmalviya735@gmail.com\"><img src=\"https://img.shields.io/badge/Email-harishmalviya735%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white\"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish%20Malviya-blue?logo=linkedin)](https://www.linkedin.com/in/harish-malviya)
+[![GitHub](https://img.shields.io/badge/GitHub-Harish07malviya-black?logo=github)](https://github.com/Harish07malviya)
+📧 **harishmalviya735@gmail.com**
 
 ---
 
-<p align=\"center\">
-  💡 *Turning raw data into reliable systems that power better decisions.*  
-</p>
+💬 *“Turning raw data into reliable systems that power better decisions — one pipeline at a time.”*  
 
 <p align=\"center\">
   <img src=\"https://capsule-render.vercel.app/api?type=waving&color=0:00A9FF,100:8A2BE2&height=90&section=footer\"/>
